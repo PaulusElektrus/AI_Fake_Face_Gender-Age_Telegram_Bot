@@ -21,5 +21,9 @@ Just for fun!
 3) Run python generate_faces.py once, this will take a while!
 4) Now you can start the telegram bot with python main.py
 
+## Attention:
+
+Bot and helper scripts are running, but bot delivers at the moment no pictures. Integration with DB is not yet finished.
+
 All images are from [thispersondoesnotexist](https://thispersondoesnotexit.com).
 Thanks to [smahesh29](https://github.com/smahesh29/Gender-and-Age-Detection) and [hankhank10](https://github.com/hankhank10/fakeface)!
